@@ -1,14 +1,14 @@
 /*
 Music Gloves
 
-We created interactive and fun gloves that play music notes. We both play on instruments and after we saw Roee's piano we wanted to mimic it's behavior. 
+We created interactive and fun gloves that play music notes.
 To implement our idea we used 2 sensors - light sensor and accelerometer (motion). Additionally, we utilized both the right and left buttons 
 as well as the slide switch to control our device actions. We also used the neoPixels to indicate the different notes and when we turn on or off the device.
 
   Video link: https://www.youtube.com/watch?v=omzZyfckoDM&ab_channel=RoeeFriedman
   Created By:
-  Roee Friedman 208743583
-  Ido Bosmi 209794395
+  Roee Friedman 
+  Ido Bosmi 
 */ 
 
 
