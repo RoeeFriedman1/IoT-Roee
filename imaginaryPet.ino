@@ -9,12 +9,10 @@
   
   * Computer with "https://dood.al/pinktrombone/" open in its browser, connected using micro USB cable 
      
-
-  Video link: https://www.youtube.com/watch?v=aHW2CCR7ji4
   
   Created By:
-  Roee Friedman 208743583
-  Ido Bosmi 209794395
+  Roee Friedman 
+  Ido Bosmi 
 */ 
 
 #include <Adafruit_CircuitPlayground.h>
