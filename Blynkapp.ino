@@ -4,12 +4,10 @@
   The user can access data about the room in which the CFX is in, such as light level, sound level, and temperature. 
   Additionally, it allows the user to send commands to the device, such as turning on the "flash light" (flash light mode, 
   playing a note or playing a scary song (scare people mode).
-
-  Video link: https://youtu.be/K_eZ44jst2k
   
   Created By:
-  Roee Friedman 208743583
-  Ido Bosmi 209794395
+  Roee Friedman 
+  Ido Bosmi 
 */ 
 
 
