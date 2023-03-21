@@ -4,8 +4,8 @@
       It communicates with CPX1 through Blynk.
 
   Created By:
-  Roee Friedman 208743583
-  Ido Bosmi 209794395
+  Roee Friedman 
+  Ido Bosmi 
 */ 
 
 #include <Adafruit_CircuitPlayground.h>
